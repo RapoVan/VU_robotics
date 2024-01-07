@@ -27,6 +27,7 @@ This Pomodoro clock has the following features:
 ## Circuit Setup
 
 Follow the circuit diagram provided in the schematics folder to connect the components. Make sure to set up the servo arm in a way that it can hold and release an object.
+![Pomodoro arm](schematics/pomidoro_arm.pdf)
 
 ## Usage
 
