@@ -2,7 +2,7 @@
 
 This project implements a Pomodoro clock using an Arduino, an LCD display, LEDs, buttons and a servo motor. The clock follows the Pomodoro Technique, a time management method that uses a timer to break down work into intervals.
 
-![Pomodoro arm](images/pomidoro_arm2.jpg)
+![Pomodoro arm](images/pomodoros_arm2.jpg)
 
 ## Project Overview
 
@@ -27,7 +27,7 @@ This Pomodoro clock has the following features:
 ## Circuit Setup
 
 Follow the circuit diagram provided in the schematics folder to connect the components. Make sure to set up the servo arm in a way that it can hold and release an object.
-![Pomodoro arm](schematics/pomidoro_arm.pdf)
+![Pomodoros arm schematics](schematics/pomodoros_arm.pdf)
 
 ## Usage
 
@@ -36,10 +36,10 @@ Follow the circuit diagram provided in the schematics folder to connect the comp
 3. Power on the Arduino board.
 4. Press the button to start the Pomodoro sessions.
 
-![Pomodoro arm](images/pomidoro_arm_start.jpg)
-![Pomodoro arm](images/pomidoro_arm_study.jpg)
-![Pomodoro arm](images/pomidoro_arm_sbreak.jpg)
-![Pomodoro arm](images/pomidoro_arm_lbreak.jpg)
+![Pomodoros arm](images/pomodoros_arm_start.jpg)
+![Pomodoros arm](images/pomodoros_arm_study.jpg)
+![Pomodoros arm](images/pomodoros_arm_sbreak.jpg)
+![Pomodoros arm](images/pomodoros_arm_lbreak.jpg)
 
 ## Configuration
 
