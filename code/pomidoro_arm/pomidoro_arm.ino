@@ -11,7 +11,6 @@ LiquidCrystal lcd(12, 11, 4, 5, 6, 7);
 const int led1 = 8;
 const int led2 = 9;
 const int button1 = 2;
-const int button2 = 3;
 const int servo = 10;
 
 // Variables for the timer
