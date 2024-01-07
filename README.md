@@ -35,7 +35,7 @@ Follow the circuit diagram provided in the project source code to connect the co
 3. Power on the Arduino board.
 4. Press the button to start the Pomodoro sessions.
 
-![Pomodoro arm](images/pomidoro_arm_start_.jpg)
+![Pomodoro arm](images/pomidoro_arm_start.jpg)
 ![Pomodoro arm](images/pomidoro_arm_study.jpg)
 ![Pomodoro arm](images/pomidoro_arm_sbreak.jpg)
 ![Pomodoro arm](images/pomidoro_arm_lbreak.jpg)
